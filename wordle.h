@@ -2,7 +2,6 @@
 
 // SEASHELL_READONLY
 
-#include <stdbool.h>
 
 // all "secret" chars are only lowercase letters (a...z)
 // all "guess" chars are only lowercase letters (a...z)
